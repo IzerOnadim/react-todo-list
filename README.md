@@ -1,4 +1,4 @@
-#React To-Do List
+# React To-Do List
 
 A to-do list made with JavaScript and React.js.
 
